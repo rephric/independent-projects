@@ -4,8 +4,8 @@ Tools written for independent projects at Wentworth Institute of Technology.
 
 ### Prerequisites
 
-python3
-python-nmap
+* python3
+* python-nmap
 
 ### Options
 
@@ -15,6 +15,7 @@ nmap
 ```
 python3 tools.py nmap --help
 ```
+
 
 ## Built With
 
